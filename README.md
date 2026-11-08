@@ -1,4 +1,4 @@
-## Folio 1.0.0
+## Folio 1.1.0
 
 The first public release of Folio, a fast and lightweight notes app for homework and projects, by Playtale Works.
 
